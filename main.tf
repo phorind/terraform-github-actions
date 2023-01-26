@@ -53,7 +53,7 @@ column {
     type     = "int"
   }
   column {
-    name     = "ph"
+    name     = "ph2"
     type     = "int"
   }
 }
