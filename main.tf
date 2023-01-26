@@ -52,4 +52,8 @@ column {
     name     = "ph"
     type     = "int"
   }
+  column {
+    name     = "ph"
+    type     = "int"
+  }
 }
