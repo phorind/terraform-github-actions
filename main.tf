@@ -44,4 +44,8 @@ column {
     name     = "data"
     type     = "text"
   }
+   column {
+    name     = "test"
+    type     = "text"
+  }
 }
