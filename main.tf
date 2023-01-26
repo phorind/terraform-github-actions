@@ -48,4 +48,8 @@ column {
     name     = "test"
     type     = "text"
   }
+    column {
+    name     = "ph"
+    type     = "int"
+  }
 }
